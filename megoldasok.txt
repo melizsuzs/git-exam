@@ -1,0 +1,6 @@
+type nul > README.md
+echo GIt Exam Repository > README.md
+git add README.md
+git commit -m "Added readme file with Title content"
+git push
+
