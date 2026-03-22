@@ -1,6 +1,2 @@
-Version 1
-<<<<<<< HEAD
-Version 2
-Version 3
-Login feature started
+Feature Final
 
